@@ -1,0 +1,15 @@
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.csprojAssemblyReference.cache
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.AssemblyInfoInputs.cache
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.AssemblyInfo.cs
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.csproj.CoreCompileInputs.cache
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/bin/Debug/net5.0/Cwiczenia.deps.json
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/bin/Debug/net5.0/Cwiczenia.runtimeconfig.json
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/bin/Debug/net5.0/Cwiczenia.runtimeconfig.dev.json
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/bin/Debug/net5.0/Cwiczenia.dll
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/bin/Debug/net5.0/ref/Cwiczenia.dll
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/bin/Debug/net5.0/Cwiczenia.pdb
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.dll
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/ref/Cwiczenia.dll
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.pdb
+/Users/Minno/Projects/Cwiczenia/Cwiczenia/obj/Debug/net5.0/Cwiczenia.genruntimeconfig.cache
